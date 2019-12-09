@@ -1,3 +1,1 @@
-# ReactJS
-# UsuariosInfluentes
 # UsuariosInfluentes
